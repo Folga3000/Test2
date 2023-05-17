@@ -1,0 +1,11 @@
+Model Information:
+* title:	BALLISTIC "APEX LEGENDS"
+* source:	https://sketchfab.com/3d-models/ballistic-apex-legends-fd415405a4ee4c4a80f0395e5fae139b
+* author:	jdlrender (https://sketchfab.com/jdlrender)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BALLISTIC "APEX LEGENDS"" (https://sketchfab.com/3d-models/ballistic-apex-legends-fd415405a4ee4c4a80f0395e5fae139b) by jdlrender (https://sketchfab.com/jdlrender) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
